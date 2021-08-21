@@ -18,20 +18,26 @@
 	
 15:50:55 From M. Alex O. Vasilescu to Everyone:
 	http://dlib.net/face_landmark_detection.py.html
+
 15:52:50 From M. Alex O. Vasilescu to Everyone:
 	https://opencv.org/
+
 16:02:05 From M. Alex O. Vasilescu to Everyone:
 	https://www.google.com/search?q=dlib+facial+markers&source=lnms&tbm=isch&sa=X&ved=2ahUKEwijn9242sDyAhXiDjQIHY3xC8MQ_AUoAXoECAEQAw&biw=802&bih=493#imgrc=fLz0J9hUrZL8XM
+
 16:06:04 From M. Alex O. Vasilescu to Everyone:
 	https://www.google.com/search?q=image+warping&tbm=isch&ved=2ahUKEwj-vZio28DyAhUIo54KHWrlBxYQ2-cCegQIABAA&oq=image+warping&gs_lcp=CgNpbWcQAzIFCAAQgAQyBggAEAUQHjIGCAAQBRAeMgQIABAYMgQIABAYMgQIABAYMgQIABAYMgQIABAYMgQIABAYMgQIABAYUO4SWKcWYLoXaABwAHgAgAFwiAHBApIBAzAuM5gBAKABAaoBC2d3cy13aXotaW1nwAEB&sclient=img&ei=SDUgYf75EIjG-gTqyp-wAQ&bih=493&biw=802
+
 16:11:52 From M. Alex O. Vasilescu to Everyone:
 	1. navigate database
 	2. download database
 	3. for every frame in all videos find the dlib facial markers
 	4. save dlib marker for every frame
-	5. warp images to template bassed on dlib markers 
-	6. save warped  image
+	5. warp images to template based on dlib markers 
+	6. save warped image
+   
 16:22:44 From Changyu Yan to Everyone:
 	https://pythonprogramming.net/
+
 16:23:01 From Changyu Yan to Everyone:
 	https://www.python.org/
