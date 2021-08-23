@@ -309,3 +309,5 @@ cython_debug/
 .idea
 .idea/*
 *.dat
+
+data/downloaded/*
