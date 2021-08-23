@@ -34,10 +34,4 @@
 	3. for every frame in all videos find the dlib facial markers
 	4. save dlib marker for every frame
 	5. warp images to template based on dlib markers 
-	6. save warped image
-   
-16:22:44 From Changyu Yan to Everyone:
-	https://pythonprogramming.net/
-
-16:23:01 From Changyu Yan to Everyone:
-	https://www.python.org/
+	6. save warped images
