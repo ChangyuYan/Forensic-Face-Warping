@@ -20,7 +20,7 @@ mask = np.zeros_like(img_gray)
 img2_new_face = np.zeros_like(img2)
 
 detector = dlib.get_frontal_face_detector()
-predictor = dlib.shape_predictor("shape_predictor_68_face_landmarks.dat")
+predictor = dlib.shape_predictor("../shape_predictor_68_face_landmarks.dat")
 # Face 1
 faces = detector(img_gray)
 for face in faces:
