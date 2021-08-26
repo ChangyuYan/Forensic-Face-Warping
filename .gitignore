@@ -309,4 +309,4 @@ cython_debug/
 .idea
 .idea/*
 
-data/downloaded/*
+frame*.jpg
