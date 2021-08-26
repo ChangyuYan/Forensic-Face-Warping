@@ -11,7 +11,7 @@ def extract_index_nparray(nparray):
     return index
 
 
-img = cv2.imread("./sample_images/me_extra_small.JPG")
+img = cv2.imread("./sample_images/me.JPG")
 img2 = cv2.imread("./sample_images/template.jpg")
 img_gray = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)
 img2_gray = cv2.cvtColor(img2, cv2.COLOR_BGR2GRAY)
