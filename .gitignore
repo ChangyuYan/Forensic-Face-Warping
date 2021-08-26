@@ -310,3 +310,5 @@ cython_debug/
 .idea/*
 
 frame*.jpg
+
+*.txt
