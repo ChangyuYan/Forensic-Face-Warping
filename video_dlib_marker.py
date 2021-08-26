@@ -53,10 +53,8 @@ for file in glob.glob("./data/Deepfakes/*.mp4"):
                 complete_file_name = os.path.join(OUTPUT_LANDMARK_DIR, file_name)
                 file = open(complete_file_name, "w")
 
-                i = 0
                 for x, y in current_frame_landmark:
                     file.write(str(x) + " " + str(y) + "\n")
-                    i += 1
                 file.close()
         else:
             break
